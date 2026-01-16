@@ -1,2 +1,10 @@
 # git-lab
-A sandbox repo to practice Git fundamentals: commits, history, branches, and recovery.
+
+A safe sandbox to practice Git workflows.
+
+## Goals
+- Understand commits and history
+- Practice branching and merging
+- Learn how to undo mistakes safely
+
+Nothing here is production code.
